@@ -1,0 +1,1 @@
+write a C program to generate pascal triangle

@@ -1,0 +1,1 @@
+write a C program to determine whether given year is a leap year.

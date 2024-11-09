@@ -1,0 +1,1 @@
+write a C program to print prime numbers between 1 and the given number 'n'
