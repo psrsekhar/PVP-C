@@ -1,1 +1,3 @@
-write a C program to generate pascal triangle
+/**
+ * Write a C program to generate Pascal’s triangle
+ */

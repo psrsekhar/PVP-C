@@ -1,1 +1,3 @@
-write a C program to perform Arithemetic Operations
+/**
+ * write a C program to perform Arithemetic Operations
+ */

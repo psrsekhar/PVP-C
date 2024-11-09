@@ -1,3 +1,6 @@
+/**
+ *  Explain the use of Conditional Operator and Write a C program to find largest of three integers using Conditional Operator.
+ */
 #include<stdio.h>
 void main(){
     int a, b, c, largest;

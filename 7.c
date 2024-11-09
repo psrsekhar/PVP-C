@@ -1,3 +1,6 @@
+/**
+ * Develop a C program for calculating simple interest.
+ */
 #include <stdio.h>
 void main(){
     int p;

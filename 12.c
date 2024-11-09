@@ -1,3 +1,6 @@
+/**
+ * Build a C program to find a factorial of a given number 𝑛 by using while loop and do while loop
+ */
 #include <stdio.h>
 void main(){
     int n, i, factorial = 1;

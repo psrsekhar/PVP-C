@@ -1,3 +1,6 @@
+/**
+ * A number is Super Prime if it is prime and all the numbers obtained by slicing its one or more right-most digits are also prime. For example, 7331 is a prime, 733 is prime, 73 is prime and 7 is a prime. Hence 7331 is super prime. Construct a C program to check given number is super prime or not.
+ */
 #include <stdio.h>
 
 int trimNumber(int number);

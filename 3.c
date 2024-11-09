@@ -1,3 +1,6 @@
+/**
+ * Draw the flowchart for solving the following problem: The algorithm reads the following two parameters – (i) Type of the vehicle, (‘M’ or ‘m’ for motorbike, ‘C’ or ‘c’ for car, and ‘B’ or ‘b’ for Bus), and (ii) Number of hours that a vehicle spent in the parking lot. The algorithm should compute the parking charge based on the following parking rates – Rs. 5, Rs.10 and Rs. 50 per hour respectively for motorbike, car and bus.
+ */
 #include <stdio.h>
 void main()
 {

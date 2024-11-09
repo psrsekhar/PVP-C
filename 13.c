@@ -1,3 +1,6 @@
+/**
+ * Build a C program to print the Fibonacci sequence 
+ */
 #include <stdio.h>
 void main()
 {
