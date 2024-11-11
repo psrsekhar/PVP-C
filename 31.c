@@ -4,3 +4,8 @@
  * For example, given x[ ] = {9, 1, 12, 4, 2} and z = 6, the sorted array will be x[ ] = {4, 9, 2, 1, 12}. 
  * Note that 4 is closest to 6, and 12 is farthest from 6, in terms of absolute distances. 
  */
+#include <stdio.h>
+
+void main(){
+
+}
